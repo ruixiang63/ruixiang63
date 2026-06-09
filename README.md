@@ -22,7 +22,7 @@ I am Senior DevTech Engineer at NVIDIA.
 Model Quantization Series:
 1. [**Concepts, Methods, and Why It Matters**](https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/)
 2. [**Post-Training Quantization Using NVIDIA Model Optimizer**](https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer/)
-3. Coming soon
+3. [**Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT**](https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/)
 <!--
 **ruixiang63/ruixiang63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
