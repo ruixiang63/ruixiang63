@@ -8,6 +8,8 @@ I am Senior DevTech Engineer at NVIDIA.
  - [**#23869**](https://github.com/ggml-org/llama.cpp/pull/23869) — Speed-bench: standardized speculative decoding performance evaluation benchmark
  - [**#18039**](https://github.com/ggml-org/llama.cpp/pull/18039) — **Eagle3** speculative decoding: **1.2–3.28× speedup** across many model families
  - [**#22105**](https://github.com/ggml-org/llama.cpp/pull/22105) — **DFlash** speculative decoding: **up to 8× speedup** on Qwen3 models
+ - [**#24536**](https://github.com/ggml-org/llama.cpp/pull/24536) - Add speculative decoding metrics for better observability and parameters tuning
+ - [**#24655**](https://github.com/ggml-org/llama.cpp/pull/24655) - Support GPU-backend sampling to improve Eagle3 performance
  
 #### [HuggingFace Transformers](https://github.com/huggingface/transformers)
  -  [**#45665**](https://github.com/huggingface/transformers/pull/45665) — Performance fix: eliminated implicit H2D copies in Gated DeltaNet
