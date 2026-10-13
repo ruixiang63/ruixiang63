@@ -8,8 +8,8 @@ I am Senior DevTech Engineer at NVIDIA focusing on LLM & GenAI.
  - [**#22105**](https://github.com/ggml-org/llama.cpp/pull/22105) — **DFlash** speculative decoding: **up to 8× speedup** across many model families
  - [**#18039**](https://github.com/ggml-org/llama.cpp/pull/18039) — **Eagle3** speculative decoding: **1.2–3.28× speedup** across many model families
  - [**#23869**](https://github.com/ggml-org/llama.cpp/pull/23869) — Speed-bench: standardized speculative decoding performance evaluation benchmark
- - [**#26725**](https://github.com/ggml-org/llama.cpp/pull/26725) - Add **MTP** support for Nemotron Models achieving up 3x speedup
- - [**#27804**](https://github.com/ggml-org/llama.cpp/pull/27804) - add **DSpark** support for Nemotron 3.5 model
+ - [**#26725**](https://github.com/ggml-org/llama.cpp/pull/26725) — Add **MTP** support for Nemotron Models achieving up 3x speedup
+ - [**#27804**](https://github.com/ggml-org/llama.cpp/pull/27804) — add **DSpark** support for Nemotron 3.5 model
  - [**#24593**](https://github.com/ggml-org/llama.cpp/pull/24593) — Support Eagle3 for qwen3.5 & 3.6 achieving up to 1.94x speedup
  - [**#24536**](https://github.com/ggml-org/llama.cpp/pull/24536) — Add speculative decoding metrics for better observability and parameters tuning
  - [**#24655**](https://github.com/ggml-org/llama.cpp/pull/24655) — Support GPU-backend sampling to improve Eagle3 performance
